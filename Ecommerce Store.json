@@ -40,7 +40,7 @@
         "tags": [
           "User"
         ],
-        "description": "Login to user account",
+        "description": "Login to user account Test",
         "consumes": [
           "application/json"
         ],
