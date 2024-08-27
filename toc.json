@@ -1,0 +1,19 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "Ecommerce Store",
+      "uri": "/Ecommerce Store.json"
+    },
+    {
+      "type": "item",
+      "title": "Swagger Petstore",
+      "uri": "/PetStore_Contract.json"
+    }
+  ]
+}
